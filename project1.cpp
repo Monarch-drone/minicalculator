@@ -37,6 +37,12 @@ void minicalc(){
                     cout<<"enter two numbers: ";
                     cin>>num1>>num2;
                     cout<<"div of "<<num1<<" and "<<num2<<"is" <<num1/num2;
+
+                    break;
+                case '%':
+                    cout<<"enter two numbers: ";
+                    cin>>num1>>num2;
+                    cout<<"prod of "<<num1<<"and"<<num2<<"is" <<num1*num2;
                     break;
                 case 'E':
                     cout<<"thank you "<<endl;
