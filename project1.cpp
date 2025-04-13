@@ -34,6 +34,7 @@ void minicalc(){
                     cout<<"prod of "<<num1<<"and"<<num2<<"is" <<num1*num2;
                     break;
                 case '/':
+            //bug fixed
                     cout<<"enter two numbers: ";
                     cin>>num1>>num2;
                     cout<<"div of "<<num1<<" and "<<num2<<"is" <<num1/num2;
