@@ -44,6 +44,7 @@ void minicalc(){
                     cin>>num1>>num2;
                     cout<<"prod of "<<num1<<"and"<<num2<<"is" <<num1*num2;
                     break;
+                    //helloo testing something
                 case 'E':
                     cout<<"thank you "<<endl;
                     exit(0);
